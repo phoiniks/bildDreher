@@ -11,7 +11,7 @@
 # Unter Verwendung des Python-Moduls multiprocessing     #
 # wäre auch eine hochperformante Ausführung, also mit    #
 # großen Mengen Bildmaterials denkbar. (Ich habe es mit  #
-# mehreren Tausend JPEGs getestet.                       #
+# mehreren Tausend JPEGs getestet.)                      #
 ##########################################################
 
 import Image
